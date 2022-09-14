@@ -1,0 +1,32 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "text": "json-server"
+    },
+    {
+      "text": "aaa",
+      "id": 2
+    },
+    {
+      "text": "asdfs",
+      "id": 3
+    },
+    {
+      "text": "asdfs",
+      "id": 4
+    },
+    {
+      "text": "sdfsdf",
+      "id": 5
+    },
+    {
+      "text": "asdfs",
+      "id": 6
+    },
+    {
+      "text": "asdfs",
+      "id": 7
+    }
+  ]
+}

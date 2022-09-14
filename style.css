@@ -22,5 +22,6 @@
     text-align: center;
 }
 
-.todo-container {
+.todo-list {
+    list-style: none;
 }
