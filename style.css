@@ -24,4 +24,16 @@
 
 .todo-list {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.75);
+}
+.todo-list li{
+    display: flex;
+    justify-content: space-between;
 }
