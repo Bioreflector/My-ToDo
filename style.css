@@ -37,3 +37,23 @@
     display: flex;
     justify-content: space-between;
 }
+.todo-list li span{
+    outline: none;
+    padding-left:3px;
+    padding-right: 6px;
+}
+.todo-list div{
+    display: flex;
+    gap: 10px;
+}
+.save-todo-btn{
+   display: none;
+}
+.enable-save-todo-btn{
+    display: block;
+}
+.todo-text-edit{
+    background-color: rgba(100, 148, 237, 0.281);
+    border: 1px solid red;
+    border-radius: 3px;
+}
